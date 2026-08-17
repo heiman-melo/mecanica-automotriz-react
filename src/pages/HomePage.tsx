@@ -16,7 +16,7 @@ export function HomePage() {
     <Stack spacing={3}>
       <Box>
         <Typography variant="h4" component="h1" gutterBottom>
-          Teoría de mecánica automotriz
+          Teoría de mecánica automotriz con heiman
         </Typography>
         <Typography color="text.secondary" sx={{ maxWidth: 640 }}>
           Consulta conceptos básicos de motores y sensores electrónicos del
